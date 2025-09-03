@@ -9,7 +9,7 @@ export default function Index() {
       <SafeAreaView style={styles.container}>
         <View style={styles.iconsection}>
           <Ionicons name="arrow-back" size={25} />
-          <Image source={require("@/assets/images/Logo.png")} />
+          <Image source={require("@/assets/images/logo.png")} />
         </View>
         <Text style={styles.titleText}>Create your</Text>
         <Text style={styles.titleText}>Account</Text>
